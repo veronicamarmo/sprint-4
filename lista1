@@ -1,0 +1,48 @@
+1) Quais as vantagens da utilização da programação orientada a objetos?
+
+R: Vantagens ditas no vídeo:
+"Todo software orientado à objeto é confiável (ao alterar uma das partes nenhuma outra será alterada).
+
+O software orientado a objeto é oportuno (ao dividir tudo em partes.
+várias delas podem ser desenvolvidas em paralelo).
+
+O software orientado a objeto é manutenivel
+(atualizar um software é mais fácil, uma
+pequena modificação beneficia todas as partes que usarem o objeto).
+
+Ele também é extensivel
+(o software não é estático, deve crescer para permanecer útil).
+
+O softwore orientado objeto é reutilizável
+(podemos usar o objeto de um sistema que criamos em outro sistema que viermos a criar)
+
+Ele é natural (todo software orientado a
+objeto tem que ser natural, pois é mais fácil de entender. Preocupa mais com a funcionalidade do que cor os detalhes de Implementação)."
+
+
+2) Defina o que é uma classe
+
+R: a classe define o que tem dentro, define um conjunto de informações (ela descreve todos os objetos de um tipo particular.)
+
+3) Defina o que é um objeto
+
+R: Objeto é a instância de uma classe,  eles possuem características próprias, denotadas por atributos (algo mais concreto).
+
+
+4) "Um funcionário enviou para o RH seus dados pessoais (Nome Completo, CPF, email) para ser contratado". 
+Identifique o que é classe e o que é o objeto na frase anterior
+
+R: Dados pessoais seria a classe, e os objetos seriam Nome completo, CPF e o email.
+
+
+5) Liste e descreva cada pilar da POO
+
+R: Definições do vídeo
+
+Abstração: É a capacidade de criar objetos abstratos que sirvam como base para um objeto concreto.
+
+Herança: É a capacidade de herdar métodos e atributos de classe superior.
+
+Encapsulamento: É a capacidade de esconder tudo o que não desejamos que o usuário da classe filha tenha acesso 
+
+Polimorfismo: É a capacidade de mudar o comportamento de um método filho que tenha o mesmo nome do método pai.
